@@ -9,7 +9,7 @@ Esta es su nueva *bóveda*.
 
 Cree una nota de algo, [[cree un enlace\|cree un enlace]], o pruebe [el Importador](https://help.obsidian.md/Plugins/Importer)!
 
-Cuando esté listo, borre esta nota y aprópiese de la bóvedajk
+Cuando esté listo, borre esta nota y aprópiese de la bóveda
 
 
 
@@ -146,7 +146,7 @@ Cuando esté listo, borre esta nota y aprópiese de la bóvedajk
 
 # Actividad Reciente
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Archivo</span><span class="dataview small-text">2</span></th><th class="table-view-th"><span>Última Modificación</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Bienvenido.md" data-href="Bienvenido.md" href="Bienvenido.md" class="internal-link" target="_blank" rel="noopener nofollow">Bienvenido</a></span></td><td>10:32 p.m. - mayo 08, 2025</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Sin título.md" data-href="Sin título.md" href="Sin título.md" class="internal-link" target="_blank" rel="noopener nofollow">Sin título</a></span></td><td>10:24 p.m. - mayo 08, 2025</td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Archivo</span><span class="dataview small-text">2</span></th><th class="table-view-th"><span>Última Modificación</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Bienvenido.md" data-href="Bienvenido.md" href="Bienvenido.md" class="internal-link" target="_blank" rel="noopener nofollow">Bienvenido</a></span></td><td>10:34 p.m. - mayo 08, 2025</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Sin título.md" data-href="Sin título.md" href="Sin título.md" class="internal-link" target="_blank" rel="noopener nofollow">Sin título</a></span></td><td>10:24 p.m. - mayo 08, 2025</td></tr></tbody></table></div>
 
 # Centro de Mando
 
